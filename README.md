@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Archit Singh Baghel</h1>
-<h3 align="center">Backend Developer who knows what to code😉</h3>
+<h1 align="center">😎 Archit Singh Baghel 👇</h1>
+<h3 align="center">Under the Takt of a Backend Developer 😉</h3>
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzljaDN1OWl1aWFucHdoOGw4Nm5jYmw3OGhkdXVrdnpobmlidzU5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kuhBsk15WfPqw/giphy.gif" alt="Zoro One Piece" />
 </p>
