@@ -3,19 +3,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=architsb" alt="architsb" /></a> </p>
 
-- 🔭 I’m currently working on [Enigma MITS](https://enigmamits.tech)
+- 🔭 I’m currently working on [: Enigma MITS](https://enigmamits.tech)
 
-- 🌱 I’m currently learning **MicroServices -- Docker, Kubernetes, Consul, Eureka, Spring Cloud, RabbitMQ, Kafka, ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus, Grafana**
+- 🌱 I’m currently learning **: MicroServices -- Docker, Kubernetes, Consul, Eureka, Spring Cloud, RabbitMQ, Kafka, ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus, Grafana**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ArchitSB](https://github.com/ArchitSB)
+- 👨‍💻 All of my projects are available at [: https://github.com/ArchitSB](: https://github.com/ArchitSB)
 
-- 💬 Ask me about **Backend First FullStack Development**
+- 💬 Ask me about **: Backend First FullStack Development**
 
-- 📫 How to reach me **arsiba999@gmail.com**
+- 📫 How to reach me **: arsiba999@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/archit-singh-baghel-54b841263/](https://www.linkedin.com/in/archit-singh-baghel-54b841263/)
+- 📄 Know about my experiences [: https://www.linkedin.com/in/archit-singh-baghel-54b841263/](: https://www.linkedin.com/in/archit-singh-baghel-54b841263/)
 
-- ⚡ Fun fact **Practice Rubber Duck Debugging Technique to learn Backend Development**
+- ⚡ Fun fact **: Practice Rubber Duck Debugging Technique to learn Backend Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
