@@ -7,12 +7,6 @@
 
 - 🌱 I’m currently learning **: MicroServices -- Docker, Kubernetes, Consul, Eureka, Spring Cloud, RabbitMQ, Kafka, ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus, Grafana**
 
-###
-
-<img align= "right" height = "100" src = "https://tenor.com/en-GB/view/zoro-one-piece-one-piece-anime-gif-10381577040765342568">
-
-###
-
 - 👨‍💻 All of my projects are available at [: https://github.com/ArchitSB](: https://github.com/ArchitSB)
 
 - 💬 Ask me about **: Backend First FullStack Development**
