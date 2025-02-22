@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Archit Singh Baghel</h1>
 <h3 align="center">Backend Developer who knows what to code😉</h3>
 <p align="center">
-  <img src="https://tenor.com/mw3TBLyvAkC.gif" alt="Zoro One Piece" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzljaDN1OWl1aWFucHdoOGw4Nm5jYmw3OGhkdXVrdnpobmlidzU5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kuhBsk15WfPqw/giphy.gif" alt="Zoro One Piece" />
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=architsb" alt="architsb" /></a> </p>
