@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=architsb" alt="architsb" /></a> </p>
 
-- 🔭 I’m currently working on [: Enigma MITS](https://enigmamits.tech)
+- 🔭 I’m currently working as a Back-End Developer at Indian Institute of Technology (IIT) Kharagpur, India.
 
 - 🌱 I’m currently learning **: MicroServices -- Docker, Kubernetes, Consul, Eureka, Spring Cloud, RabbitMQ, Kafka, ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus, Grafana**
 
